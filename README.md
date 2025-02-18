@@ -4,5 +4,5 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <a href="https://marlonprado2025.github.io/Responsividade/">Link do projeto</a>
 <br>
-<img src="./Capt-cell.PNG" width="200"> 
+<img src="./cell-note.png"> 
 
